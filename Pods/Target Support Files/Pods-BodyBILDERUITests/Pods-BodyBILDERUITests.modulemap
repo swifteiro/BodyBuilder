@@ -1,0 +1,6 @@
+framework module Pods_BodyBILDERUITests {
+  umbrella header "Pods-BodyBILDERUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
